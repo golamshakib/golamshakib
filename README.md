@@ -15,7 +15,7 @@
   </a>
 </p>
 
- 🔭 I’m currently working on **BD Calling IT Limited**
+ 🔭 I’m currently working on **SM Technology**
  
  🌱 I’m currently learning **Native android**
 
