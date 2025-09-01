@@ -101,11 +101,13 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
     style="margin-right: 1%;"
   />
 
+<!--
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=golamshakib&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&layout=compact&langs_count=8" 
     alt="Shakib's Top Languages" 
     width="48%" 
   />
+  -->
 </div>
 
 </div>
