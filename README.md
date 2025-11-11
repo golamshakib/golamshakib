@@ -38,7 +38,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 <!-- GitHub Contribution Details -->
 <div align="center">
   <h3>⚡ GitHub Contribution Details</h3>
-   <hr/>
+<hr/>
   <p align="center">
     <a href="https://github.com/golamshakib">
       <img 
@@ -67,8 +67,8 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 <!-- Snake Contributions-->
 
 <div align="center">
- <h2>🐍 My Contributions 🐍</h2>
-     <hr/>
+ <h3>🐍 My Contributions 🐍</h3>
+    <hr/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/golamshakib/golamshakib/output/github-contribution-grid-snake.svg" />
   
   <br/>
@@ -80,7 +80,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 
 <div align="center">
-  <h2>🔥 My Stats</h2>
+  <h3>🔥 My Stats</h3>
   <hr/>
     
 <div align="center">
