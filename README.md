@@ -66,7 +66,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 <!-- Snake Contributions-->
 
-<div align="center">
+<!-- <div align="center">
  <h3>🐍 My Contributions 🐍</h3>
     <hr/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/golamshakib/golamshakib/output/github-contribution-grid-snake.svg" />
@@ -74,7 +74,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
   <br/>
 </div>
 
-<hr/>
+<hr/> -->
 
 <!-- My Stats -->
 
