@@ -85,12 +85,11 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
     
 <div align="center">
   <!-- 🔥 GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=golamshakib&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2" 
-    alt="Shakib's GitHub Streak" 
-    width="70%" 
-    style="margin-bottom: 10px;"
-  /> 
+  <img
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=golamshakib&theme=tokyonight&hide_border=true%22
+  alt="Shakib's GitHub Streak"
+  width="500"
+/>
 
  <!-- 💻 GitHub Stats & 🧠 Top Languages (Same Row) -->
 <div align="center">
