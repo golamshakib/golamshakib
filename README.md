@@ -86,19 +86,18 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 <div align="center">
   <!-- 🔥 GitHub Streak -->
 <img
-  src="https://github-readme-stats-eight-theta.vercel.app/api?username=golamshakib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068%22
-  alt="Shakib's GitHub Stats"
-  width="480"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=golamshakib&theme=tokyonight&hide_border=true"
+  alt="Shakib's GitHub Streak."
+  width="500"
 />
 
  <!-- 💻 GitHub Stats & 🧠 Top Languages (Same Row) -->
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=golamshakib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068" 
-    alt="Shakib's GitHub Stats" 
-    width="48%" 
-    style="margin-right: 1%;"
-  />
+  <img
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=golamshakib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=bf91f3&icon_color=70a5fd"
+  alt="Shakib's GitHub Stats."
+  width="480"
+/>
 
 <!--
   <img 
