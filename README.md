@@ -18,7 +18,8 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
    <a href="https://golamshakib.wixsite.com/golamshakib" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+       <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="mailto:golamshakib.h@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -32,6 +33,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 </div>
  <hr/>
+
 
 <!-- GitHub Contribution Details -->
 <div align="center">
@@ -62,6 +64,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 <hr/>
 
+
 <!-- Snake Contributions-->
 
 <!-- <div align="center">
@@ -81,6 +84,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
   <hr/>
     
 <div align="center">
+    
   <!-- 🔥 GitHub Streak -->
 <img
   src="https://github-readme-streak-stats-eight.vercel.app/?user=golamshakib&theme=tokyonight&hide_border=true"
