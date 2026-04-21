@@ -109,7 +109,6 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 </div>
 
-
  <!--
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
