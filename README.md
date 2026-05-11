@@ -76,9 +76,6 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 
 
-
-
-
 <hr/> -->
 
 <!-- My Stats -->
