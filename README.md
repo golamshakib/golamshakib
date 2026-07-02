@@ -82,9 +82,6 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 
 
-
-
-
 <hr/> -->
 
 <!-- My Stats -->
@@ -109,8 +106,6 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
   alt="Shakib's GitHub Stats."
   width="480"
 />
-
-
 
 
 <!--
