@@ -41,7 +41,6 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 
 
-
 <!-- GitHub Contribution Details -->
 <div align="center">
   <h3>⚡ GitHub Contribution Details</h3>
@@ -78,6 +77,8 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 
 
+
+
 <!-- Snake Contributions-->
 
 <!-- <div align="center">
@@ -87,8 +88,6 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
   
   <br/>
 </div>
-
-
 
 
 
